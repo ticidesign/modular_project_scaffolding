@@ -3,4 +3,4 @@ const app = express()
 
 app.get('/api/', (req, res) => res.send('This is your API.'))
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.listen(3001, () => console.log('API started on port 3001'))
