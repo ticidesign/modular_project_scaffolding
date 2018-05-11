@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "modular-project-scaffolding",
   "version": "1.0.0",
   "description": "separation of concerns for front end and back end",
   "main": "index.js",

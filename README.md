@@ -30,6 +30,7 @@ Each folder has its own scripts you can run if you just want to work in one part
 `npm run build` will run both subfolders' `npm run build` in parallel.
 
 
-## notes
+#### notes
 `npm-run-all` is a CLI tool to run multiple npm-scripts in parallel or sequential.
+
 `run-p` is a CLI command from `npm-run-all` to run given npm-scripts in parallel.
