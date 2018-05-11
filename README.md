@@ -1,1 +1,3 @@
-# modular_project_scaffolding
+# Modular Project Scaffolding
+
+separation of concerns for front end and back end
